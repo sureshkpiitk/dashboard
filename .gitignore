@@ -1,0 +1,7 @@
+.idea
+.idea/*
+venv/*
+venv
+frontend/node_modules
+*.pyc
+frontend/package-lock.json
